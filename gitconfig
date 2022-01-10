@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yorik.nyssen@icloud.com
+	name = Yorik Nyssen
